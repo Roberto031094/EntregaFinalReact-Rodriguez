@@ -12,7 +12,7 @@ Unas aclaraciones del proyecto:
 -Sobre Firebase:
  1) Al enviar la orden desde Checkout, el mensaje va a tardar unos segundos en aparecer. Es un SweetAlert sencillo.
  2) Hice muy pocas pruebas, pero hasta ahora no ha habido problemas con el envío de datos a la Database.
- 3) El proyecto es de prueba y lo creé la semana pasada, a sí que deberpia estar vigente hasta finales de agosto.
+ 3) El proyecto es de prueba y lo creé la semana pasada, a sí que debería estar vigente hasta finales de agosto.
 
 
 
