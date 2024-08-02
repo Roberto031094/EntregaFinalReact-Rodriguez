@@ -1,6 +1,6 @@
 Unas aclaraciones del proyecto:
 
--Hay cosas en la ruta "detalle" que van a ser un poco diferentes a como venimos trabajando ya que las cambié para que se pareciesen un poco a los eCommerce de mascotas que usá como referencia:
+-Hay cosas en la ruta "detalle" que van a ser un poco diferentes a como venimos trabajando ya que las cambié para que se pareciesen un poco a los eCommerce de mascotas que usé como referencia:
   1) Como los "productos" son realmente seres vivos, cambié la palabra Stock por Disponibilidad. Por la misma razón el stock por item es reducido (3), ya que en algunos sitios no te dejaba llevar más de 1 por compra.
   2) Con esta misma lógica, hice que el usuario solo pudiera agregarlos al carrito de a uno, por más que haya un contador de stock.
   3) Los elementos que pertenecen a un mismo Item se guardan por separado en localStorage, ya que a cada uno se le genera una key única usando su Id+.Date.
